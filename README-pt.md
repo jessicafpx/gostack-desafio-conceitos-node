@@ -14,7 +14,7 @@ Este é um desafio do bootcamp GoStack, da Rocketseat. Trata-se de uma aplicaç�
 
 ## 📜 Licença
 
-> Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jessicafpx/gostack-desafio-conceitos-node/blob/main/LICENSE.md) para mais detalhes.
+> Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jessicafpx/gostack-desafio-conceitos-node/blob/master/LICENSE.md) para mais detalhes.
 
 ---
 
